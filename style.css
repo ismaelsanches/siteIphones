@@ -1,0 +1,209 @@
+.cordoheader{
+    background-color: #43546B !important;
+    color: white ;
+}
+body{
+
+   
+}
+.txtcor{
+    color: white;
+    font-size: 20px;
+}
+.navbar{
+position: fixed;
+width: 100%;
+
+padding: 10px 100px ;
+
+}
+.nav-item{
+
+    padding: 0px 15px;
+}
+.logo{
+
+margin-right: 13%;
+}
+.full{
+
+    height: 100vh;
+}
+.sectionone{
+    background-color: #586e8bf6;
+    padding-top: 70px;
+}
+.txtone{
+    color: white;
+    font-weight: 600;
+    font-size: 40px;
+    margin: 0%;
+    font-family: sans-serif;
+}
+.txtduo{
+
+    color: white;
+    font-size: 20px;
+    margin: 0%;
+    padding-bottom: 5%;
+    font-family: sans-serif;
+    
+}
+.d-flex{
+    height: 100%;
+    padding: 0px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.iph{
+    align-self: center;
+}
+.txtiph{
+    align-self: center;
+}
+.botaoiph{
+    border: none;
+    background-color: #6da2ff;
+    padding: 10px 10px;
+    height: 10%;
+    border-radius: 8px;
+}   
+.botaocont{
+    border: none;
+    background-color: #6da2ff;
+    padding: 10px 10px;
+    border-radius: 8px;
+}
+.logon{
+
+    list-style: none;
+    display: flex;
+
+
+}
+.l1, .l2, .l3{
+    padding: 0px 15px;
+    height: 1px;
+    padding-bottom: 20px;
+}
+.sectionduo{
+    padding: 0px 100px;
+    background-color: #586e8b31;
+    
+}
+.d-flexduo{
+    height: 100%;
+    padding: 0px 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.txtwatch{
+    align-self: center;
+    padding-left: 50px;
+}
+.watch{
+    align-self: center;
+    padding-right: 50px;
+}
+.txtwone{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 40px;
+    margin: 0%;
+    font-family: sans-serif;
+}
+.txtwduo{
+
+    color: rgb(10, 7, 7);
+    font-size: 20px;
+    margin: 0%;
+    padding-bottom: 5%;
+    font-family: sans-serif;
+
+}
+.sectionthree{
+    
+    padding: 50px 100px;
+    background-color: #586E8B;
+    
+    
+}
+.txtacone{
+    padding-top: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 40px;
+    margin: 0%;
+    font-family: sans-serif;
+
+}
+.txtacduo{
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 0%;
+    padding-bottom: 5%;
+    font-family: sans-serif;
+
+}
+.d-flexthree{
+    
+    padding: 40px 100px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.acone{
+    padding-top: 30px;
+    
+    border: solid 5px rgba(12, 12, 12, 0.514);
+    border-radius: 10%;
+    width: 100%;
+    margin-left: 10px;
+    
+
+}
+.text-center{
+    text-align: center ;
+}
+
+.txtcapaone{
+    
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 30px;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.txtpeliculaone{
+    
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 30px;
+    margin: 0%;
+    font-family: sans-serif;
+}
+.txtcarregadorone{
+   
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 30px;
+    margin: 0%;
+    font-family: sans-serif;
+}
+.txt{
+    padding-top: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 0%;
+    padding-bottom: 5%;
+    font-family: sans-serif;
+}
+
+
+.corda{
+    background-color: #586e8b31;
+}
